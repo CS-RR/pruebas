@@ -1,0 +1,7 @@
+Hola Soy Sebastian Reyes
+Comando a usar:
+git init 
+git add .
+git commit -m "Cambio de texto"
+git push
+
